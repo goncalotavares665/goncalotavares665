@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=%F0%9F%93%8C%20Projetos%20em%20destaque&fontSize=25&fontColor=C792EA&fontAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=%F0%9F%93%8C%20Projects&fontSize=25&fontColor=C792EA&fontAlignY=60&animation=fadeIn"/>
 </p>
 
 <!--
