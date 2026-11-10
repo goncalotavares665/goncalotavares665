@@ -54,16 +54,16 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=all-aboard&theme=material-palenight" />
   </a>
   <a href="https://github.com/ivasduarte/logistics-on-rails">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=logistics-on-rails&theme=material-palenight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ivasduarte&repo=logistics-on-rails&theme=material-palenight" />
   </a>
   <a href="https://github.com/ivasduarte/airport-campus-network">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=airport-campus-network&theme=material-palenight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ivasduarte&repo=airport-campus-network&theme=material-palenight" />
   </a>
   <a href="https://github.com/ivasduarte/ai-safe">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=ai-safe&theme=material-palenight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ivasduarte&repo=ai-safe&theme=material-palenight" />
   </a>
   <a href="https://github.com/ivasduarte/laprizza">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=laprizza&theme=material-palenight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ivasduarte&repo=laprizza&theme=material-palenight" />
   </a>
 </p>
 
