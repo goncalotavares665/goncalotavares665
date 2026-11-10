@@ -46,16 +46,26 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=%F0%9F%93%8C%20Projects&fontSize=25&fontColor=C792EA&fontAlignY=60&animation=fadeIn"/>
 </p>
 
-<!--
 <p align="center">
-  <a href="https://github.com/goncalotavares665/">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=REPO1&theme=material-palenight" />
+  <a href="https://github.com/goncalotavares665/eigenfaces">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=eigenfaces&theme=material-palenight" />
   </a>
-  <a href="https://github.com/goncalotavares665/">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=REPO2&theme=material-palenight" />
+  <a href="https://github.com/goncalotavares665/all-aboard">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=all-aboard&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/ivasduarte/logistics-on-rails">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=logistics-on-rails&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/ivasduarte/airport-campus-network">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=airport-campus-network&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/ivasduarte/ai-safe">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=ai-safe&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/ivasduarte/laprizza">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=goncalotavares665&repo=laprizza&theme=material-palenight" />
   </a>
 </p>
--->
 
 ---
 
