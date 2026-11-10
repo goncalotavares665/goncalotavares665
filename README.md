@@ -27,8 +27,8 @@
 </p>
 
 - Estudante de Engenharia Informática no ISEP (3º ano).
-- Atualmente a tirar certificações.
 - Linguagens principais: Java e C.
+- A aprender: JavaScript, React, TypeScript
 
 ---
 
